@@ -64,9 +64,8 @@ This graphic illustrates how **_Modeling to Learn_** can help us to get more of 
 
 ### 1.Open an internet browser window. Go to mtl.how/data 
 
-- This will take you to the Power BI site, ensure you have your PIV card to access the intranet site. This site contains Protected Health Information (PHI), so as a provider you will be granted access according to the permissions that are set up on your PIV.
+- This will take you to the *MTL* data user interface Power BI site. This site contains Protected Health Information (PHI), so ensure you have your PIV card to access the intranet site. As a provider you will be granted access according to the permissions that are set up on your PIV.
     - **Note:** If you are getting a red row-level security (RLS) error on the homepage, please let us know and we can grant you access.
-- We'll be opening the _Modeling to Learn_ data user interface (UI) in Power BI here today.
 - We'll show you how data you pull from here will be saved back to this secure site, so that you can protect patient PHI just as you do in all your work. 
 - On the landing page, you will select the "Data UI (Viz)" Panel and then the "Clinic Selections" panel. 
 - To navigate to our bookmarks, click on the bookmark icon in the upper right hand in the top of the grey header. 
@@ -75,15 +74,15 @@ This graphic illustrates how **_Modeling to Learn_** can help us to get more of 
 ## To create a personal data UI bookmark, go through Steps #2-4. We will show you the steps but you already have a prepped data UI bookmark for today's session.
 
 ### 2. Selecting & Viewing your Team Data. 
-- You will select your clinics using the columns present.
+- Select your clinics using the columns.
 - You can search and filter for Clinics by Provider after making selections in Division Name, Physical Location, Primary Stopcode, Secondary Stopcode, and/or Is Inactive columns.
 -  **With your team lead (________), we selected the following clinics to represent your team.**
 -  After making all your selections in a column, click the yellow "Apply" button.
--  Clicking "Apply" in the "Select Clinics to Generate Report Data" column pulls your Patient Level Data; this will pull all clinics used in the last two years.
-- Note: The filters in the light blue and dark blue columns *only* apply to the green Clinics column. You MUST make selections and click "Apply" in the "Select Clinics to Generate Report Data" column to generate your data. (By default, the data and viz tabs is to show all the data for all sta3ns and clinics.)
+-  Clicking "Apply" in the "Select Clinics to Generate Report Data" column pulls your Patient Level Data; This will pull all clinics used in the last two years.
+- Note: The filters in the light blue and dark blue columns *only* apply to the green Clinics column. You MUST make selections and click "Apply" in the "Select Clinics to Generate Report Data" column to generate your data. (By default, the data and viz tabs show all the data for all sta3ns and clinics.)
 
 **Tips & Tricks**
-- *Note:* Leaving the "Is Inactive" column blank will pull all de-activated clinics used in the last two years (denoted by a "ZZ" prefix). If you do not wish for inactive clinics to be pulled, under the "Is Inactive" column, check "No" and click the yellow "Apply" button.
+- *Note:* Leaving the "Is Inactive" column blank will pull all de-activated clinics used in the last two years (denoted by a "ZZ" prefix). If you do not want inactive clinics to be pulled, under the "Is Inactive" column, check "No" and click the yellow "Apply" button.
 - To clear filters/columns, click on the "Eraser" icon in the upper right of the filter/column.
 - To reset ALL selections across ALL tabs, click the "Reset" button in the upper right hand of the bar.
 
@@ -111,13 +110,13 @@ _**New in MTL 2.5**_
     
 ### 3. **Click to view the "viz" tabs, which show team trends.**
 - Just like the facility data, there are team trends for diagnoses, encounters, health factor data (e.g., suicide plans, evidence-based practice templates), and measures from mental health assistant.  Your team's vision was about \_______________.  Let's go to the \_________________ viz tab to see data relevant to that issue.
-- You can explore further in the "viz" tabs by right clicking on any trend line and "Show As Table." (The "Quick Explore" feature is no longer available.)
+- To explore further in the "viz" tabs, right click on any trend line and click "Show As Table." (The "Quick Explore" feature is no longer available.)
 - *Note on Drill Up View:* The "Drill Up" View shows a zoomed-out view of team trends. However, please note that the shoulders in monthly and yearly views are not meaningful since we do not have all days of observation in a month, or 12 months of observation in each year, respectively for all of the months and years. 
-- *Filters* Zoom into a specific team trend by navigating to the right side of the screen and click on the "Funnel" icon to unhide filter panel.
+- *Filters* To zoom into a specific team trend, navigate to the right side of the screen and click on the "Funnel" icon to unhide the filter panel.
     - **Note:** If you do not see something that you would expect or previously saw, check to see if a filter is applied.
     - Click on the **funnel icon** in the top upper right. Filters are active if it says "Filters and slicers affecting this visual".
-- *Counts* To view the number of visits in a trend, right-click on the graph and "Show as table".
-- vizDiag in the data UI shows a trendlines by diagnoses or combination of diagnoses. For example, the "PTSD" line is for patients with only PTSD. The "PTSD & AUD" line is for patients with both these diagnoses but does not discriminate between which is the primary, secondary, etc. diagnoses.
+- *Counts* To view the number of visits in a trend, right-click on the graph and click "Show as table".
+- vizDiag in the data UI shows trendlines by diagnoses or combination of diagnoses. For example, the "PTSD" line is for patients with only PTSD. The "PTSD & AUD" line is for patients with both these diagnoses but does not discriminate between which is the primary, secondary, etc. diagnoses.
 
    [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontLink) ***00:25-00:35***
 
@@ -129,9 +128,9 @@ _**New in MTL 2.5**_
    [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontLink) ***00:35-00:40***
 
 ### 4. **Click to view the "data" tabs, which show your team's individual patient information.**
-   - Providers can filter to find specific patients, or produce reports.Patients who have requested restricted access to their information have asterisks (******) in the "Patient Name" column. If you are a VA provider, you can still identify patients from the "Patient SSN" Column, or "Patient Name" Column.
+   - Providers can filter to find specific patients, or produce reports. Patients who have requested restricted access to their information have asterisks (******) in the "Patient Name" column. If you are a VA provider, you can still identify patients from the "Patient SSN" Column, or "Patient Name" Column.
    - Patient information corresponds to the same categories as the team trends: diagnoses, encounters, health factor data (e.g., suicide plans, evidence-based practice templates), and measures from Mental Health Assistant.
-   - Providers can filter to find specific patients, or produce reports by navigating to the right side of the screen and click on the "Funnel" icon to unhide filter panel.
+   - Providers can zoom in to filter to find specific patients, or produce reports by navigating to the right side of the screen and clicking on the "Funnel" icon to unhide the filter panel.
        - **Note:** If you do not see something that you would expect or previously saw, check to see if a filter is applied.
        - Click on the **funnel icon** in the top upper right. Filters are active if it says "Filters and slicers affecting this visual".
    - dataDiag in the data UI has an additional column after "Diagnoses of Interest," called "Primary Diagnoses". "Diagnoses of Interest" retains all the current unordered diagnoses combinations, while "Primary Diagnoses" indicates what is the primary diagnosis. This means that if there is only one diagnosis in the "Diagnoses of Interest" column, it will still repeat what that diagnosis is in the "Primary Diagnoses" column.
@@ -146,7 +145,7 @@ _**New in MTL 2.5**_
    [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontLink) Keep an eye on    time | **Themes from the team vision to be highlighted.** | **Team Data related questions to Prioritize with the Team.**
    |  |  |
 
-   - What **data** tab would you use to find out how many current patients on the team are engaged in a specific evidence-based psychotherapy? What column shows you the session number \(EBP template\) that the patient is on.
+   - What **data** tab would you use to find out how many current patients on the team are engaged in a specific evidence-based psychotherapy? What column shows you the \(EBP template\) session number that the patient is on.
    - What **viz** tab would you use to see what the most common service encounters or visits are?
    - Are there services that have been **increasing over time?**
    - Are there services that have been **decreasing over time?**
