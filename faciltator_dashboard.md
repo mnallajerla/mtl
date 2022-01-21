@@ -90,7 +90,7 @@ This section explains how to use the Facilitator Dashboard to set up and manage 
 
 <img src = "https://github.com/mnallajerla/mtl_test/blob/feature-gh-pages_chp_9_data_ui/images/mtl_data_confirm_data_with_curent_layout.png?raw=true">
             
-5. An excel spreadsheet will appear.  Click “enable” and save the export file, naming it using the convention described in the [facilitator one-pager](https://github.com/lzim/mtl/blob/blue/session02/s02_facilitator/mtl_how-data_2.5_one_pager.pdf)
+5. An excel spreadsheet will appear.  Click “enable” and save the export file, naming it using the convention described in the [facilitator one-pager](https://github.com/mnallajerla/mtl_test/blob/feature-gh-pages_chp_9_data_ui/facilitator_one_pager.md)
 
 <img src = "https://github.com/mnallajerla/mtl_test/blob/feature-gh-pages_chp_9_data_ui/images/mtl_data_save_export_file.png?raw=true">
 
