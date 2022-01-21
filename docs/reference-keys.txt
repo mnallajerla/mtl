@@ -117,6 +117,8 @@ orientation-to-the-dashboard
 set-up-a-team
 set-up-a-facilitator-individual-team-_ind
 manage-team-data
+export-team-data-from-mtl.howdata_test
+upload-team-data-to-sim-ui
 produce-team_time-report
 set-up-a-blue-tt-report
 set-up-a-red-tt-report

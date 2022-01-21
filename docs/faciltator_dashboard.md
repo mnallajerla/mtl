@@ -56,15 +56,15 @@ This section explains how to use the Facilitator Dashboard to set up and manage 
 
 1. Navigate to Team Setup
 
-  <image src = "https://github.com/lzim/mtl/blob/feature-gh-pages_facilitator_dashboard/images/select_ind_team.png?raw=true">
+<image src = "https://github.com/lzim/mtl/blob/feature-gh-pages_facilitator_dashboard/images/select_ind_team.png?raw=true">
 
 2. Select any \_ind\_team from Team Setup listing and click Edit.
 
-  <image src = "https://github.com/lzim/mtl/blob/feature-gh-pages_facilitator_dashboard/images/add_ind.png?raw=true">
+<image src = "https://github.com/lzim/mtl/blob/feature-gh-pages_facilitator_dashboard/images/add_ind.png?raw=true">
 
 3. In the Edit Team Setup popup click Add.
 
-  <image src = "https://github.com/lzim/mtl/blob/feature-gh-pages_facilitator_dashboard/images/enter_ind_alias.png?raw=true">
+<image src = "https://github.com/lzim/mtl/blob/feature-gh-pages_facilitator_dashboard/images/enter_ind_alias.png?raw=true">
 
 4. In the Add Team Members popup, enter your first name, last name, select Team Lead in Select Role dropdown, enter your name (example: James Rollins) again in the Enter Email field and enter your Clinical Role.  Click Add, then Done.  Your name is now your alternate alias to be used for _ind teams.
 
@@ -72,13 +72,38 @@ This section explains how to use the Facilitator Dashboard to set up and manage 
 
 ## Manage Team Data
 
-<img src = "https://github.com/lzim/mtl/blob/feature-gh-pages_facilitator_dashboard/images/manage_team_data.png?raw=true">
+### Export Team Data from _mtl_.how/data_test
+
+1. Navigate to mtl.how/data_test.
+
+<img src = "https://github.com/mnallajerla/mtl_test/blob/feature-gh-pages_chp_9_data_ui/images/mtl_data_navigate_to.png?raw=true">
+
+2. Select “Team Data for Sim UI” from left-hand menu. When table appears, hover your cursor over the table until the ellipsis (three dots) in upper right of data list. Click the ellipsis.
+
+<img src = "https://github.com/mnallajerla/mtl_test/blob/feature-gh-pages_chp_9_data_ui/images/mtl_data_select_team_data_for_sim_ui.png?raw=true">
+
+3. Select “Export Data” from the dropdown.            
+    
+<img src = "https://github.com/mnallajerla/mtl_test/blob/feature-gh-pages_chp_9_data_ui/images/mtl_data_select_export_data.png?raw=true">
+
+4. Confirm “Data with Current Layout” in the popup. Then click “Export” button.
+
+<img src = "https://github.com/mnallajerla/mtl_test/blob/feature-gh-pages_chp_9_data_ui/images/mtl_data_confirm_data_with_curent_layout.png?raw=true">
+            
+5. An excel spreadsheet will appear.  Click “enable” and save the export file, naming it using the convention described in the [facilitator one-pager](https://github.com/mnallajerla/mtl_test/blob/feature-gh-pages_chp_9_data_ui/facilitator_one_pager.md)
+
+<img src = "https://github.com/mnallajerla/mtl_test/blob/feature-gh-pages_chp_9_data_ui/images/mtl_data_save_export_file.png?raw=true">
+
+### Upload Team Data to Sim UI
 
 1. Click the "Add" button to add a new team data file. The File Manager popup will appear.
 
-  <img src = "https://github.com/lzim/mtl/blob/feature-gh-pages_facilitator_dashboard/images/select_file_popup.png?raw=true">
- 
+<img src = "https://github.com/lzim/mtl/blob/feature-gh-pages_facilitator_dashboard/images/manage_team_data.png?raw=true">
+
 2. Go to the desired file location and click on the file.
+
+<img src = "https://github.com/lzim/mtl/blob/feature-gh-pages_facilitator_dashboard/images/select_file_popup.png?raw=true">
+
 3. Click "Open" to upload the file.
 
 **Please Note.**
@@ -211,18 +236,18 @@ This section explains how to use the Facilitator Dashboard to set up and manage 
  - The Sim UI has a responsive design that should accommodate many resolutions and browser window sizes.
  - Follow the steps below to get the best view.
  
- <img src = "https://github.com/lzim/mtl/blob/feature-gh-pages_resize_window/images/window_view_click.png?raw=true">
+ <img src = "https://github.com/lzim/mtl/blob/gh-pages/images/window_view_click.png?raw=true">
  
  1. Click the "window" icon in the upper right of the browser window.
  
-   <img src = "https://github.com/lzim/mtl/blob/feature-gh-pages_resize_window/images/drag_window.png?raw=true">
+   <img src = "https://github.com/lzim/mtl/blob/gh-pages/images/drag_window.png?raw=true">
  
  2. Drag the browser window to the desired size. **Notice how the Sim UI design responds by stacking menu icon.**
  
-   <img src = "https://github.com/lzim/mtl/blob/feature-gh-pages_resize_window/images/refresh_window.png?raw=true">
+   <img src = "https://github.com/lzim/mtl/blob/gh-pages/images/refresh_window.png?raw=true">
  
  3. Sometimes items on the screen are cutoff or not formatted correctly.  Click the refresh button so the browser can detect the new window size and adjust the format.
  
-   <img src = "https://github.com/lzim/mtl/blob/feature-gh-pages_resize_window/images/zoom_window.png?raw=true">
+   <img src = "https://github.com/lzim/mtl/blob/gh-pages/images/zoom_window.png?raw=true">
  
  4. If the format is still not optimum, decrease the zoom below 100% to reduce the size of the items on the screen, or drag the screen slightly larger.
