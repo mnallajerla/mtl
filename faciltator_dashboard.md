@@ -78,7 +78,7 @@ This section explains how to use the Facilitator Dashboard to set up and manage 
 
 <img src = "https://github.com/mnallajerla/mtl_test/blob/feature-gh-pages_chp_9_data_ui/images/mtl_data_navigate_to.png?raw=true">
 
-2. Select “Team Data for Sim UI” from left-hand menu. When table appears, hover your cursor over the table until the ellipsis (three dots) in upper right of data list. Click the elipsis.
+2. Select “Team Data for Sim UI” from left-hand menu. When table appears, hover your cursor over the table until the ellipsis (three dots) in upper right of data list. Click the ellipsis.
 
 <img src = "https://github.com/mnallajerla/mtl_test/blob/feature-gh-pages_chp_9_data_ui/images/mtl_data_select_team_data_for_sim_ui.png?raw=true">
 
